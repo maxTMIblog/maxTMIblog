@@ -10,4 +10,4 @@ The meeting theme was Leadership.
 
 WOD: Carisma
 
-![Image of Mediterranea TM stage](/assets/images/img-medtm.jpg)
+![Image of Mediterranea TM stage](https://github.com/maxTMIblog/maxTMIblog/blob/main/assets/images/img-medtm.jpg)

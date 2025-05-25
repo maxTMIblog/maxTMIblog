@@ -10,4 +10,4 @@ Lastly the general evaluator was eloquent and funny at the same time.
 
 WOD: Serendipity
 
-![Image of Prestigious Speakers Club stage](/assets/images/img-prestm.jpg)
+![Image of Prestigious Speakers Club stage](https://github.com/maxTMIblog/maxTMIblog/blob/main/assets/images/img-prestm.jpg)
